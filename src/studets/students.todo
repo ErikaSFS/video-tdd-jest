@@ -1,7 +1,7 @@
 # Regras de negocio para estudantes
 
 
-Regras:(3)
+Regras:(4)
 
  - Devemos conseguir somar as notas dos alunos; OK
  - Se caso uma nota for zero, a soma deve retornar zero; OK
